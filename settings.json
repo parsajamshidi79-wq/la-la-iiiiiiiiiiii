@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": im batman,
-      "repeat": im realy batman,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
